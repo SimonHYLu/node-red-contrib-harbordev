@@ -13,7 +13,15 @@
 	},
 	"license": "MIT",
 	"author": {
-		"name": "Simon"
+		"name": "Simon Lu"
+	},
+	"homepage": "https://github.com/SimonHYLu/node-red-contrib-harbordev/blob/main/readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SimonHYLu/node-red-contrib-harbordev.git"
+	},
+	"bugs": {
+		"url": "https://github.com/SimonHYLu/node-red-contrib-harbordev/issues"
 	},
 	"keywords": [
 		"node-red",
